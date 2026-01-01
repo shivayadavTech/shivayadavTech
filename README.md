@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Freelancer-4CAF50?style=for-the-badge&logo=upwork&logoColor=white" />
 </p>
 
----
 
 ### 🚀 About Me
 I am a passionate **Front-End Developer** and **Web Designer** dedicated to creating responsive and modern websites. I specialize in turning complex **Figma designs** into pixel-perfect, fully functional code. I love exploring AI tools to push the boundaries of productivity and design.
@@ -15,7 +14,6 @@ I am a passionate **Front-End Developer** and **Web Designer** dedicated to crea
 - 🌱 I’m currently learning **Advanced React & Next.js**.
 - 💬 Ask me about **Responsive Web Design** and **Figma to HTML/CSS**.
 
----
 
 ### 🛠 Tech Stack & Tools
 
@@ -30,7 +28,6 @@ I am a passionate **Front-End Developer** and **Web Designer** dedicated to crea
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
 
 ### 📊 My GitHub Stats
 <p align="center">
@@ -38,10 +35,11 @@ I am a passionate **Front-End Developer** and **Web Designer** dedicated to crea
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=shivayadavTech&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivayadavTech&layout=compact&hide_border=true&theme=dracula" />
 </p>
----
 
 ### 📫 Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/
+shivanand-yadav-dev
+)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your.email@gmail.com)
