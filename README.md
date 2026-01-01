@@ -1,5 +1,12 @@
 # 👋 Hi, I'm Shivanand Yadav
 
+# 👋 Hi, I'm Shivanand Yadav
+
+💻 **Front-End Developer | Web Designer | Freelancer**
+
+I create responsive and modern websites using the latest web technologies.
+I enjoy turning Figma designs into fully functional websites and exploring AI tools to enhance productivity.  
+
 ### 🔧 Tech Stack
 - HTML5
 - CSS3
