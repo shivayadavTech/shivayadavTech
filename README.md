@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Shivanand Yadav
 
-# 👋 Hi, I'm Shivanand Yadav
-
 💻 **Front-End Developer | Web Designer | Freelancer**
 
 I create responsive and modern websites using the latest web technologies.
