@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivanand Yadav
 
-<!--
-**shivayadavTech/shivayadavTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech Stack
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript (Basics)
+- Responsive Web Design
+- Figma to Code
 
-Here are some ideas to get you started:
+### 🛠 Tools
+- VS Code
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 AI Tools I Use
+- ChatGPT
+- Gemini
+- Claude
+- GitHub Copilot
+
+### 🌱 Currently Learning
+- Advanced JavaScript
+- Better UI/UX practices
+
+### 🚀 Projects
+- [Portfolio Website](https://github.com/shivayadavTech/my-portfolio) – HTML, CSS, Responsive
+- [Bootstrap Landing Pages](https://github.com/shivayadavTech/bootstrap-projects)
+- JavaScript Basics Practice
