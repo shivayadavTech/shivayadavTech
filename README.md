@@ -37,7 +37,7 @@ I am a passionate **Front-End Developer** and **Web Designer** dedicated to crea
 ### 🛠 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma,vscode,github" />
   </a>
 </p>
 
@@ -49,13 +49,8 @@ I am a passionate **Front-End Developer** and **Web Designer** dedicated to crea
 | **Project 2** | Describe your project here. | Bootstrap | [Live Demo](#) / [Repo](#) |
 
 ### 📫 Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/
-shivanand-yadav-dev
-)
+[<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shivanand-yadav-dev)
+
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shivanandyadav407@gmail.com)
 
-Total visitor-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivayadavTech&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
-</p>
+**Total Visitors:** ![Visitor Count](https://komarev.com/ghpvc/?username=shivayadavTech&color=blue&style=flat-square&label=VIEWS)
