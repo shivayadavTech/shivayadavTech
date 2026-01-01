@@ -38,7 +38,7 @@ I am a passionate **Front-End Developer** and **Web Designer** dedicated to crea
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivayadavTech&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=shivayadavTech&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 ---
 
