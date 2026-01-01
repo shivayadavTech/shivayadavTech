@@ -34,12 +34,28 @@ I am a passionate **Front-End Developer** and **Web Designer** dedicated to crea
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivayadavTech&theme=dark" alt="shivayadavTech's streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-cards.dev/api/status?user=shivayadavTech&theme=github_dark" alt="GitHub Status" />
+### 🛠 Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma,vscode,git" />
+  </a>
 </p>
+
+### 📂 Featured Projects
+
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Project 1** | Describe your project here. | HTML, CSS | [Live Demo](#) / [Repo](#) |
+| **Project 2** | Describe your project here. | Bootstrap | [Live Demo](#) / [Repo](#) |
 
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/
 shivanand-yadav-dev
 )
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your.shivanandyadav407@gmail.com)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shivanandyadav407@gmail.com)
+
+Total visitor-
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivayadavTech&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+</p>
