@@ -36,7 +36,6 @@ I am a passionate **Front-End Developer** and **Web Designer** dedicated to crea
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivayadavTech&theme=dark" alt="shivayadavTech's streak" />
 </p>
-
 ---
 
 ### 📫 Connect with me:
