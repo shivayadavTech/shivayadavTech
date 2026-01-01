@@ -35,11 +35,11 @@ I am a passionate **Front-End Developer** and **Web Designer** dedicated to crea
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivayadavTech&layout=compact&hide_border=true&theme=dracula" />
+  <img src="https://github-cards.dev/api/status?user=shivayadavTech&theme=github_dark" alt="GitHub Status" />
 </p>
 
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/
 shivanand-yadav-dev
 )
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your.email@gmail.com)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your.shivanandyadav407@gmail.com)
