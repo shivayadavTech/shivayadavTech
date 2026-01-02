@@ -28,12 +28,13 @@ I am a passionate **Front-End Developer** and **Web Designer** dedicated to crea
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
 ### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivayadavTech&theme=dark" alt="shivayadavTech's streak" />
-</p>
 
+![Shivay's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivayadavTech&show_icons=true&theme=radical&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivayadavTech&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivayadavTech&layout=compact&theme=radical)
 ### 🛠 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
